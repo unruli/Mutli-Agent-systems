@@ -1,6 +1,6 @@
-## Multi-Agent Systems
+# Multi-Agent Systems
 
-# 🤖 Multi-Agent Systems with CrewAI + OpenAI
+## 🤖 Multi-Agent Systems with CrewAI + OpenAI
 
 This repository explores the design and orchestration of multi-agent systems using [CrewAI](https://docs.crewai.com/) and OpenAI models. It demonstrates how to coordinate autonomous agents to solve complex tasks collaboratively.
 
